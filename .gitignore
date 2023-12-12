@@ -1,0 +1,35 @@
+### Django ###
+*.log
+*.pot
+*.pyc
+*.xml
+*/migrations/
+__pycache__/
+local_settings.py
+settings.py
+db.sqlite3
+media/
+node_modules/
+venv/
+mvp_pro/
+.mypy_cache/
+.vscode/
+.idea/
+logs/
+env/
+virtual/
+Pipfile
+Pipfile.lock
+local_instance_install.sh
+docker-compose.yml
+/static/
+mvpvenv/
+0_unused/
+<<<<<<< HEAD
+mvp_project/src/_dev/temp
+.env
+.DS_Store
+env.key
+-r
+feature-images/
+migrations/
